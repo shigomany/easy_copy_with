@@ -1,5 +1,8 @@
 # Changelog
 
+## [3.1.1] - TBD
+- Updated package `analyzer` to ^9.0.0
+
 ## [3.1.0] - 2025-11-26
 - Added codegen for sealed classes.
 
